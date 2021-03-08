@@ -1,0 +1,7 @@
+-am realizat conexiunea dintre client si server(multi client)
+-am creat o interfata grafica(minimala) pentru client
+-am reusit inregistrarea audio pentru client
+-am reusit transmiterea acesteia catre server (aceasta se realizeaza greu *in 4-5 secunde*, voi incerca sa realizez transmiterea pe thread-uri)
+-am reusit salvarea inregistrarilor in folderul "Commands/" din proiectul de server
+-am lucrat la interfata grafica
+-am realizat anumite functii pe care sa le execute aplicatia in functie de comanda recunoscuta de server
